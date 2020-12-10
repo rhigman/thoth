@@ -1,3 +1,4 @@
+this change will stop the project from compiling properly
 #[cfg(feature = "backend")]
 #[macro_use]
 extern crate diesel;
